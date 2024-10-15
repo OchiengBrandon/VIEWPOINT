@@ -17,7 +17,6 @@ https://github.com/OchiengBrandon/VIEWPOINT/raw/main/app.apk
 You can use the badges below to show the status of your project. These badges were generated with [shields.io].
 
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/OchiengBrandon/VIEWPOINT?include_prereleases)
-: Shows the current release version.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/OchiengBrandon/VIEWPOINT)
 
