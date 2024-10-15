@@ -8,7 +8,7 @@ https://github.com/OchiengBrandon/VIEWPOINT/raw/main/app.apk
 
 # VIEWPOINT
 
-![VIEWPOINT Cover Image](https://github.com/OchiengBrandon/short_video_app/blob/main/assets/images/feed.jpeg) <!-- Replace with your image link -->
+![VIEWPOINT Cover Image](https://github.com/OchiengBrandon/VIEWPOINT/blob/main/assets/images/feed.jpeg) <!-- Replace with your image link -->
 
 **VIEWPOINT** is a short video app developed with Flutter and Firebase. It allows users to create, upload, and share short videos with friends and the community. Built with love by **brandondeveloper**.
 
