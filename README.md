@@ -1,5 +1,5 @@
 
-![VIEWPOINT ReadME](https://github.com/OchiengBrandon/short_video_app/blob/main/assets/images/Logo.png)
+![VIEWPOINT ReadME](https://github.com/OchiengBrandon/VIEWPOINT/blob/24776ad533dc806a0dfcd52fe506e8fe7bf9ed31/assets/images/Light%20mode.png)
 
 # VIEWPOINT
 
