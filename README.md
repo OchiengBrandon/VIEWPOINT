@@ -45,7 +45,7 @@ To run the project locally, follow these steps:
 
 # Quick Start Demo
 
-![Landing](https://github.com/OchiengBrandon/short_video_app/blob/main/assets/images/initial.jpeg)
+![Landing](https://github.com/OchiengBrandon/VIEWPOINT/blob/main/assets/images/initial.jpeg)
 
 ## Demo
 
