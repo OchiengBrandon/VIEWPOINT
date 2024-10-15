@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55804331567",
+    "project_id": "short-video-app-2d132",
+    "storage_bucket": "short-video-app-2d132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55804331567:android:520bab5322fefd536428da",
+        "android_client_info": {
+          "package_name": "com.example.short_video_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfb1Yql3J-wemv-ifBbzSCVO8pFrjpZHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
