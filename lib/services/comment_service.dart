@@ -15,9 +15,9 @@ class CommentService {
           .doc(comment.id)
           .set({
         'userId': comment.userId,
-        'username': comment.username ?? '', // Ensure username is non-null
+        'username': comment.username ?? '',
         'content': comment.content,
-        'timestamp': FieldValue.serverTimestamp(), // Use server timestamp
+        'timestamp': FieldValue.serverTimestamp(),
         'likes': comment.likes,
         'dislikes': comment.dislikes,
       });
