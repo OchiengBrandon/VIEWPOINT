@@ -20,16 +20,13 @@ You can use the badges below to show the status of your project. These badges we
 : Shows the current release version.
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/OchiengBrandon/VIEWPOINT)
-: Shows the last commit time. Good indication of the project activity.
 
 ![GitHub issues](https://img.shields.io/github/issues-raw/OchiengBrandon/VIEWPOINT)
-: Dynamic badge that shows the number of open issues in the project.
 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/OchiengBrandon/VIEWPOINT)
-: Similar dynamic badge, but for pull requests.
 
 ![GitHub](https://img.shields.io/github/license/OchiengBrandon/VIEWPOINT)
-: Shows the open-source license the project uses.
+
 
 ## Description
 
