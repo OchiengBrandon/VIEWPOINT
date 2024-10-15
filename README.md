@@ -3,19 +3,12 @@
 
 # VIEWPOINT
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-[![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
-[![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)
-
-
 ##### Download APK
 https://github.com/OchiengBrandon/VIEWPOINT/raw/main/app.apk
 
 # VIEWPOINT
 
-![VIEWPOINT Cover Image](https://github.com/OchiengBrandon/short_video_app/blob/main/assets/images/feed.jpeg) <!-- Replace with your image link -->
+![VIEWPOINT Cover Image](https://github.com/OchiengBrandon/VIEWPOINT/blob/main/assets/images/feed.jpeg) <!-- Replace with your image link -->
 
 **VIEWPOINT** is a short video app developed with Flutter and Firebase. It allows users to create, upload, and share short videos with friends and the community. Built with love by **brandondeveloper**.
 
@@ -23,20 +16,16 @@ https://github.com/OchiengBrandon/VIEWPOINT/raw/main/app.apk
 
 You can use the badges below to show the status of your project. These badges were generated with [shields.io].
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/your-github-username/VIEWPOINT?include_prereleases)
-: Shows the current release version.
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/OchiengBrandon/VIEWPOINT?include_prereleases)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-github-username/VIEWPOINT)
-: Shows the last commit time. Good indication of the project activity.
+![GitHub last commit](https://img.shields.io/github/last-commit/OchiengBrandon/VIEWPOINT)
 
-![GitHub issues](https://img.shields.io/github/issues-raw/your-github-username/VIEWPOINT)
-: Dynamic badge that shows the number of open issues in the project.
+![GitHub issues](https://img.shields.io/github/issues-raw/OchiengBrandon/VIEWPOINT)
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-github-username/VIEWPOINT)
-: Similar dynamic badge, but for pull requests.
+![GitHub pull requests](https://img.shields.io/github/issues-pr/OchiengBrandon/VIEWPOINT)
 
-![GitHub](https://img.shields.io/github/license/your-github-username/VIEWPOINT)
-: Shows the open-source license the project uses.
+![GitHub](https://img.shields.io/github/license/OchiengBrandon/VIEWPOINT)
+
 
 ## Description
 
@@ -52,7 +41,7 @@ To run the project locally, follow these steps:
 
 # Quick Start Demo
 
-![Landing](https://github.com/OchiengBrandon/short_video_app/blob/main/assets/images/initial.jpeg)
+![Landing](https://github.com/OchiengBrandon/VIEWPOINT/blob/main/assets/images/initial.jpeg)
 
 ## Demo
 
