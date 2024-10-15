@@ -16,19 +16,19 @@ https://github.com/OchiengBrandon/VIEWPOINT/raw/main/app.apk
 
 You can use the badges below to show the status of your project. These badges were generated with [shields.io].
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/your-github-username/VIEWPOINT?include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/OchiengBrandon/VIEWPOINT?include_prereleases)
 : Shows the current release version.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-github-username/VIEWPOINT)
+![GitHub last commit](https://img.shields.io/github/last-commit/OchiengBrandon/VIEWPOINT)
 : Shows the last commit time. Good indication of the project activity.
 
-![GitHub issues](https://img.shields.io/github/issues-raw/your-github-username/VIEWPOINT)
+![GitHub issues](https://img.shields.io/github/issues-raw/OchiengBrandon/VIEWPOINT)
 : Dynamic badge that shows the number of open issues in the project.
 
-![GitHub pull requests](https://img.shields.io/github/issues-pr/your-github-username/VIEWPOINT)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/OchiengBrandon/VIEWPOINT)
 : Similar dynamic badge, but for pull requests.
 
-![GitHub](https://img.shields.io/github/license/your-github-username/VIEWPOINT)
+![GitHub](https://img.shields.io/github/license/OchiengBrandon/VIEWPOINT)
 : Shows the open-source license the project uses.
 
 ## Description
